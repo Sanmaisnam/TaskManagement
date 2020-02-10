@@ -1,0 +1,517 @@
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
+Rabih
+Do Everything
+Write the whole code
++tm.getEstimatedtime()+
++tm.getPriority()+
+AmirAli, total performance: 3
+Rabih, total performance: 12
+Thomas, total performance: 1
+Thomas, has to complete 1 task
+Rabih, has to complete 1 task
+AmirAli, has to complete 1 task
+1 | Upload Assignment | 1H
+2 | Destroy code formatting | 1h
+1 | Write Description | 3h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+10 | Do Everything | Rabih | 12h
+2 | Destroy code formatting | Thomas | 1h
+2 | Have fun | null | 10h
+1 | Write Description | AmirAli | 3h
+1 | Write Description | AmirAli | 3h
+2 | Have fun | 10H
+2 | Destroy code formatting | 1h
+2 | Have fun | 10h
+1 | Write Description | 3h
