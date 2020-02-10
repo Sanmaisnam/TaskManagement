@@ -22,6 +22,7 @@ In order to use an array, we need to define its size first before any manipulati
 
 ## Sonar lint Code Quality 
 Some issues are link to a String("text") statement 
+
 ![](https://drive.google.com/uc?id=1yh_VqYQK6xA2-aTl3eFoO0oUJSmanRHF)
 
 ## DataBase  
